@@ -1,0 +1,9 @@
+[submodule "sha256sum"]
+	path = sha256sum
+	url = https://github.com/walker84837/sha256sum-win-rs.git
+[submodule "sha512sum"]
+	path = sha512sum
+	url = https://github.com/walker84837/sha512sum-win-rs.git
+[submodule "cat"]
+	path = cat
+	url = https://github.com/walker84837/cat-win-rs.git
