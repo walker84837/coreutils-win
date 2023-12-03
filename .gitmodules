@@ -7,3 +7,9 @@
 [submodule "cat"]
 	path = cat
 	url = https://github.com/walker84837/cat-win-rs.git
+[submodule "netcat"]
+	path = netcat
+	url = https://github.com/walker84837/netcat-win-rs.git
+[submodule "factor"]
+	path = factor
+	url = https://github.com/walker84837/factor-win-rs.git
